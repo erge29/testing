@@ -1,3 +1,4 @@
 menonton tutorial git & github di youtube
 praktek tutorialnya
 mulai mambuat project
+evaluasi project
